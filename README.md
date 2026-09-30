@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-Full Stack Developer from Brazil. I build production products end to end with **TypeScript, React, Next.js and Node.js/NestJS**, and I integrate **LLMs** into features people actually use. Open to remote roles.
+Full Stack Developer from Brazil · [Portfolio](https://lucasbragancadev.vercel.app). I build production products end to end with **TypeScript, React, Next.js and Node.js/NestJS**, and I integrate **LLMs** into features people actually use. Open to remote roles.
 
 - 💼 Nearly 2 years at **Vend** on a production multi-tenant SaaS for WhatsApp customer service and debt collection, including two LLM features: a conversational analytics assistant and real-time reply suggestions
 - 🔥 Freelance since 2026: built **FireSafe** on my own for Firecorp, a Firebase PWA that replaced a fire-safety consultancy's permit spreadsheet, plus a finance module on Cloudflare Workers
@@ -18,7 +18,7 @@ Full Stack Developer from Brazil. I build production products end to end with **
 `TypeScript` `React` `Next.js` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Redis/BullMQ` `Firebase` `Cloudflare Workers` `Docker` `GitHub Actions` `LLM integration`
 
 #### Contact
-[LinkedIn](https://www.linkedin.com/in/lucas-braganca-goncalves98) · lucasbg98@hotmail.com
+🌐 **Portfolio: [lucasbragancadev.vercel.app](https://lucasbragancadev.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/lucas-braganca-goncalves98) · lucasbg98@hotmail.com
 
 ---
 
